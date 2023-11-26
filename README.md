@@ -3,8 +3,7 @@
 This is a content based movie recommendation system that utilizes machine learning to suggest similar movies based on user input. 
 The website employs the Bag-of-Words machine learning model uses cosine similarity to analyze the similarity between 2 strings of text.
 The website uses a 5000 movie database and a TMDB API to pull movie details for displaying and comparing movie data. After running the model,
-the top 10 most similar movies are displayed along with its movie poster, audience score, release date, cast, crew, genres, and a brief overview. 
-The website is hosted online on the Heroku platform with the URL https://movies-rec-system-ahaank.herokuapp.com/. 
+the top 10 most similar movies are displayed along with its movie poster, audience score, release date, cast, crew, genres, and a brief overview.
 
 How the Website Works:
 
